@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66924544091",
+    "project_id": "blu-zone",
+    "storage_bucket": "blu-zone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66924544091:android:e5eaaf99e16a0449713f7e",
+        "android_client_info": {
+          "package_name": "com.example.consultafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66924544091-c87sefn2c8l251006qejg18k4mnsar8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcRVzVBnjqCzTmziCBu1rYFqfZjLHqg_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66924544091-c87sefn2c8l251006qejg18k4mnsar8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
